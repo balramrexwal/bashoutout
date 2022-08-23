@@ -1,0 +1,3 @@
+http://test.php.vulnweb.com:80/listproducts.php?cat=FUZZ
+http://test.php.vulnweb.com:80/comment.php?aid=FUZZ
+http://test.php.vulnweb.com:80/artists.php?artist=FUZZ
